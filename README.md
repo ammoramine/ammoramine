@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ammoramine
 - 👀 I’m interested in computer vision/AI/ cloud services/ devops ,mathematics of optimization, and quite  passionate with python technologies and clean coding
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning  ..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/amine-ammor-13859994
 
